@@ -6,3 +6,6 @@ itsdangerous==2.1.2
 MarkupSafe==2.1.2
 Werkzeug==2.3.3
 zipp==1.0.0
+mediapipe
+numpy
+opencv-python
